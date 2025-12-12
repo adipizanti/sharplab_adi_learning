@@ -1,2 +1,3 @@
 hello this is local adi calling git adi, copy?
 Copy. welcome to the other side - the cloud. sending ot back to you -->
+this is git adi again, please check this again before pulling!
